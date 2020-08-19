@@ -16,3 +16,7 @@ TODO:如果把行数扩大到200000，模型训练结果会是怎样？
 2.训练集及测试集：
 链接：https://pan.baidu.com/s/1Md2Vn5NECHsC-O1o-wm73Q 
 提取码：rlye
+
+## 提高预测百分比
+- 除去频率低的词
+https://trafalbad.hatenadiary.jp/entry/2019/08/03/082538
